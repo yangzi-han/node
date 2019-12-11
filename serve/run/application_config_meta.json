@@ -1,0 +1,283 @@
+{
+  "keys": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+      "type": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+      "password": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+      "user": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+      "port": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js",
+      "database": "d:\\高级node\\egg-dome\\serve\\config\\config.default.js"
+    },
+    "default": {
+      "database": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-mysql\\config\\config.default.js"
+    },
+    "app": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-mysql\\config\\config.default.js",
+    "agent": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-mysql\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "validate": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg-validate\\config\\config.default.js",
+  "env": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "name": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "version": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "description": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "main": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "license": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "egg-validator": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "jsonwebtoken": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "uid": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "validata": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "validator": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "strict": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "depth": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "env": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "level": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "logging": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "port": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "d:\\高级node\\egg-dome\\serve\\node_modules\\egg\\config\\config.default.js"
+}
